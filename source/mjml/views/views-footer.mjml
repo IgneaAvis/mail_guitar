@@ -14,6 +14,6 @@
 </mj-section>
 <mj-section mj-class="views-footer-last" css-class="views-footer-last">
   <mj-column mj-class="views-footer-last__column" css-class="views-footer-last__column">
-    <mj-text mj-class="views-footer-last__text" css-class="views-footer-last__text"><p>© Your Brand. All Rights Reserved. Created by <a href="" title="">typenote.io</a> </p></mj-text>
+    <mj-text mj-class="views-footer-last__text" css-class="views-footer-last__text"><p>&copy; Your Brand. All Rights Reserved. Created by&nbsp;<a href="" title="">typenote.io</a> </p></mj-text>
   </mj-column>
 </mj-section>

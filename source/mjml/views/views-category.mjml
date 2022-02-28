@@ -1,6 +1,6 @@
 <mj-section mj-class="views-category-title" css-class="views-category-title">
   <mj-column mj-class="views-category-title__column" css-class="views-category-title__column">
-    <mj-text mj-class="views-category-title__text" css-class="views-category-title__text"> <p>SHOP BY CATEGORY</p> </mj-text>
+    <mj-text mj-class="views-category-title__text" css-class="views-category-title__text"> <p>SHOP BY&nbsp;CATEGORY</p> </mj-text>
   </mj-column>
 </mj-section>
 <mj-section mj-class="views-category" css-class="views-category">
