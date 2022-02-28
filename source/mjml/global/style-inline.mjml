@@ -119,4 +119,7 @@
   .views-category__button{
     width: 180px !important;
   }
+  .components-main__right > table > tbody > tr > td{
+    direction: rtl !important;
+  }
 </mj-style>
