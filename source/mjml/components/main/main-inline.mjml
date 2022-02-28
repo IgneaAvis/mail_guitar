@@ -1,0 +1,8 @@
+<mj-style inline="inline">
+.components-main-one__column {
+  width:300px !important;
+}
+.components-main-one__column-one {
+  width:300px !important;
+}
+</mj-style>

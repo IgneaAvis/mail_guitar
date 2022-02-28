@@ -1,0 +1,12 @@
+<mj-section mj-class="views-header" css-class="views-header">
+  <mj-column mj-class="views-header__column" css-class="views-header__column">
+    <mj-image src="{{{views-header__logo.src}}}" alt="{{{views-header__logo.alt}}}" href="{{{views-header__logo.href}}}" title="{{{views-header__logo.title}}}" mj-class="views-header__logo" css-class="views-header__logo"/>
+    <mj-text mj-class="views-header__title" css-class="views-header__title">
+      <p>LABOR DAY</p>
+      <p>WEEKEND SALE</p>
+    </mj-text>
+    <mj-button href="{{{views-header__button.href}}}" mj-class="views-header__button" css-class="views-header__button">Shop now</mj-button>
+    <mj-image src="{{{views-header__image.src}}}" alt="{{{views-header__image.alt}}}" mj-class="views-header__image pt10" css-class="views-header__image"/>
+  </mj-column>
+</mj-section>
+<mj-include path="../components/lent/lent.mjml" />

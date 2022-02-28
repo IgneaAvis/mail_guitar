@@ -1,0 +1,16 @@
+<mj-section mj-class="views-buttons" css-class="views-buttons">
+  <mj-group>
+    <mj-column mj-class="views-buttons__column" css-class="views-buttons__column">
+      <mj-image src="{{{views-buttons__image.src}}}" alt="{{{views-buttons__image.alt}}}" mj-class="views-buttons__image" css-class="views-buttons__image"/>
+      <mj-text mj-class="views-buttons__text" css-class="views-buttons__text"> <p>FREE DELIVERY</p> </mj-text>
+    </mj-column>
+    <mj-column mj-class="views-buttons__column" css-class="views-buttons__column-border">
+      <mj-image src="{{{views-buttons__image1.src}}}" alt="{{{views-buttons__image1.alt}}}" mj-class="views-buttons__image" css-class="views-buttons__image views-buttons__image_border"/>
+      <mj-text mj-class="views-buttons__text" css-class="views-buttons__text"> <p>STUDENTS 10% OFF</p> </mj-text>
+    </mj-column>
+    <mj-column mj-class="views-buttons__column" css-class="views-buttons__column">
+      <mj-image src="{{{views-buttons__image2.src}}}" alt="{{{views-buttons__image2.alt}}}" mj-class="views-buttons__image" css-class="views-buttons__image"/>
+      <mj-text mj-class="views-buttons__text" css-class="views-buttons__text"> <p>FREE RETURNS</p> </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>

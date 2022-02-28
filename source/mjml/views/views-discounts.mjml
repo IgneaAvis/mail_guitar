@@ -1,0 +1,9 @@
+<mj-section mj-class="views-discounts" css-class="views-discounts-title">
+  <mj-column mj-class="views-discounts__column" css-class="views-discounts__column">
+    <mj-text mj-class="views-discounts__title" css-class="views-discounts__title">
+      <p>BEST DISCOUNTS</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-include path="../components/discounts/discounts.mjml" />
+<mj-include path="../components/discounts1/discounts.mjml" />

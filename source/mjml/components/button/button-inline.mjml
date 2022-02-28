@@ -1,0 +1,64 @@
+<mj-style inline="inline">
+  .button {
+    padding: 0px 0px !important;
+
+    font-size: 0px !important;
+    word-break: break-word !important;
+
+    border-collapse: collapse !important;
+
+    mso-table-rspace: 0pt !important;
+    mso-table-lspace: 0pt !important;
+  }
+
+  .button > table {
+    width: 230px !important;
+
+    line-height: 100% !important;
+
+    border-collapse: separate !important;
+
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  .button > table > tr > td {
+    padding: 0px !important;
+
+    font-style: normal !important;
+
+    border: none !important;
+    border-radius: 10px !important;
+
+    border-collapse: collapse !important;
+    cursor: auto !important;
+
+    mso-padding-alt: 17px 10px !important;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  .button > table > tr > td > a {
+    display: inline-block !important;
+    width: 230px !important;
+
+    margin: 0 !important;
+    padding: 17px 10px !important;
+
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+
+    font-family: Helvetica, Arial, sans-serif !important;
+    font-style: normal !important;
+    line-height: 26px !important;
+    text-transform: none !important;
+    text-decoration: none !important;
+
+    background-color: #838383 !important;
+
+    border-radius: 10px !important;
+
+    mso-padding-alt: 0px !important;
+  }
+</mj-style>

@@ -1,0 +1,3 @@
+<mj-include path="../components/main/main.mjml" />
+<mj-include path="../components/main1/main.mjml" />
+<mj-include path="../components/main2/main.mjml" />

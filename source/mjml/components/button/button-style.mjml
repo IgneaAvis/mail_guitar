@@ -1,0 +1,32 @@
+<mj-style>
+
+/* global style in&nbsp;head */
+
+/* media */
+
+@media screen and (max-width: 479px) {
+
+}
+
+@media screen and (min-width: 480px) {
+
+}
+
+/* black-theme rule media */
+
+@media (prefers-color-scheme: dark) {
+  .button > table > tr > td > a {
+    color: #000000 !important;
+    background-color: #838383 !important;
+  }
+}
+
+/* black-theme rule attr */
+
+[data-ogsc] .button > table > tr > td > a,
+[data-ogsb] .button > table > tr > td > a {
+  color: #000000 !important;
+  background-color: #838383 !important;
+}
+
+</mj-style>

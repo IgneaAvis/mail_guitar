@@ -1,0 +1,19 @@
+<mj-section mj-class="views-footer" css-class="views-footer">
+  <mj-group mj-class="views-footer_group" css-class="views-footer_group">
+    <mj-column mj-class="views-footer__column"  css-class="views-footer__column">
+    <mj-image src="{{{views-header__logo.src}}}" alt="{{{views-header__logo.alt}}}" href="{{{views-header__logo.href}}}" title="{{{views-header__logo.title}}}" mj-class="views-footer__image" css-class="views-footer__image"/>
+  </mj-column>
+  <mj-column mj-class="views-footer__column-one"  css-class="views-footer__column-one">
+    <mj-social mj-class="views-footer__social" css-class="views-footer__social">
+      <mj-social-element src="{{{views-footer__social-element.src}}}" href="{{{views-footer__social-element.href}}}" mj-class="views-footer__social-element" css-class="views-footer__social-element"></mj-social-element>
+      <mj-social-element src="{{{views-footer__social-element1.src}}}" href="{{{views-footer__social-element1.href}}}" mj-class="views-footer__social-element" css-class="views-footer__social-element"></mj-social-element>
+      <mj-social-element src="{{{views-footer__social-element2.src}}}" href="{{{views-footer__social-element2.href}}}" mj-class="views-footer__social-element" css-class="views-footer__social-element"></mj-social-element>
+    </mj-social>
+  </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section mj-class="views-footer-last" css-class="views-footer-last">
+  <mj-column mj-class="views-footer-last__column" css-class="views-footer-last__column">
+    <mj-text mj-class="views-footer-last__text" css-class="views-footer-last__text"><p>© Your Brand. All Rights Reserved. Created by <a href="" title="">typenote.io</a> </p></mj-text>
+  </mj-column>
+</mj-section>

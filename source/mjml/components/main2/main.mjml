@@ -1,0 +1,14 @@
+<mj-section mj-class="components-main" css-class="components-main">
+  <mj-column mj-class="components-main-one__column" css-class="components-main-one__column">
+    <mj-image src="{{{components-main-one__image2.src}}}" alt="{{{components-main-one__image2.alt}}}" mj-class="components-main-one__image" css-class="components-main-one__image"/>
+  </mj-column>
+  <mj-column mj-class="components-main-one__column-one" css-class="components-main-one__column-one">
+    <mj-text mj-class="components-main-one__title" css-class="components-main-one__title">
+      <p>GUITARS</p>
+    </mj-text>
+    <mj-text mj-class="components-main-one__priceoff" css-class="components-main-one__priceoff">
+      <p>35% off</p>
+    </mj-text>
+    <mj-button href="#" mj-class="components-main-one__button" css-class="components-main-one__button">LEARN MORE</mj-button>
+  </mj-column>
+</mj-section>

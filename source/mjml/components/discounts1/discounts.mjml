@@ -1,0 +1,18 @@
+<mj-section mj-class="components-discounts-one pb20" css-class="components-discounts-one">
+  <mj-column mj-class="components-discounts__one-column" css-class="components-discounts__one-column">
+    <mj-image src="{{{components-discounts__image1.src}}}" alt="{{{components-discounts__image1.alt}}}" mj-class="components-discounts__image" css-class="components-discounts__image"/>
+  </mj-column>
+  <mj-column mj-class="components-discounts__one-column pt20" css-class="components-discounts__one-column pt20">
+    <mj-image src="{{{components-discounts__image-main1.src}}}" alt="{{{components-discounts__image-main1.alt}}}" mj-class="components-discounts__image-main" css-class="components-discounts__image-main"/>
+    <mj-text mj-class="components-discounts__textOne" css-class="components-discounts__textOne">
+      <p>50% OFF</p>
+    </mj-text>
+    <mj-text mj-class="components-discounts__textMain" css-class="components-discounts__textMain">
+      <p>Acoustic drums</p>
+    </mj-text>
+    <mj-text mj-class="components-discounts__textprice" css-class="components-discounts__textprice">
+      <p>Price: <span>$100</span> <span>$50</span></p>
+    </mj-text>
+    <mj-button href="#" mj-class="components-discounts__button" css-class="components-discounts__button">SEE PRODUCT</mj-button>
+  </mj-column>
+</mj-section>

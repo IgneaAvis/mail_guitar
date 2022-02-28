@@ -1,0 +1,5 @@
+<mj-section mj-class="lent" css-class="lent">
+  <mj-column mj-class="lent__column" css-class="lent__column">
+    <mj-image src="{{{lent__image.src}}}" alt="{{{lent__image.alt}}}" mj-class="lent__image" css-class="lent__image"/>
+  </mj-column>
+</mj-section>

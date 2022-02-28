@@ -1,0 +1,5 @@
+<mj-attributes>
+  <mj-class name="spacer"                    padding-top="10px"
+                                             padding-bottom="10px"
+                                             background-color="#ffffff"/>
+</mj-attributes>

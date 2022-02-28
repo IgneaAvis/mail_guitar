@@ -1,0 +1,85 @@
+{
+  "title": {
+    "content": "Guitar"
+  },
+
+  "preheader": {
+    "content": "Guitar &nbsp;&zwnj;"
+  },
+
+  "button--1": {
+    "src": "",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "bgcolor": "#838383"
+  },
+  "views-header__logo": {
+    "src": "../image/img-guitar-logo.png",
+    "alt": "logo",
+    "href": "https://vk.com",
+    "title": "logo"
+  },
+  "views-header__image": {
+    "src": "../image/img-guitar-header-image.jpg",
+    "alt": "main"
+  },
+  "views-header__button": {
+    "href": "https://vk.com"
+  },
+  "lent__image": {
+    "src": "../image/img-guitar-separator.png",
+    "alt": "lent"
+  },
+  "components-main-one__image": {
+    "src": "../image/img-guitar-product-1.jpg",
+    "alt": "image"
+  },
+  "components-main-one__image1": {
+    "src": "../image/img-guitar-product-2.jpg",
+    "alt": "image"
+  },
+  "components-main-one__image2": {
+    "src": "../image/img-guitar-product-3.jpg",
+    "alt": "image"
+  },
+  "components-discounts__image": {
+    "src": "../image/img-guitar-product-photo-1.jpg",
+    "alt": "image"
+  },
+  "components-discounts__image1": {
+    "src": "../image/img-guitar-product-photo-2.jpg",
+    "alt": "image"
+  },
+  "components-discounts__image-main": {
+    "src": "../image/img-guitar-guitar.jpg",
+    "alt": "image"
+  },
+  "components-discounts__image-main1": {
+    "src": "../image/img-guitar-drums.jpg",
+    "alt": "image"
+  },
+  "views-buttons__image": {
+    "src": "../image/img-guitar-delivery.png",
+    "alt": "image"
+  },
+  "views-buttons__image1": {
+    "src": "../image/img-guitar-students.png",
+    "alt": "image"
+  },
+  "views-buttons__image2": {
+    "src": "../image/img-guitar-returns.png",
+    "alt": "image"
+  },
+  "views-footer__social-element": {
+    "src": "../image/img-guitar-facebook.png",
+    "alt": "image"
+  },
+  "views-footer__social-element1": {
+    "src": "../image/img-guitar-instagram.png",
+    "alt": "image"
+  },
+  "views-footer__social-element2": {
+    "src": "../image/img-guitar-twitter.png",
+    "alt": "image"
+  }
+}

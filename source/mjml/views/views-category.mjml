@@ -1,0 +1,23 @@
+<mj-section mj-class="views-category-title" css-class="views-category-title">
+  <mj-column mj-class="views-category-title__column" css-class="views-category-title__column">
+    <mj-text mj-class="views-category-title__text" css-class="views-category-title__text"> <p>SHOP BY CATEGORY</p> </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class="views-category" css-class="views-category">
+  <mj-column mj-class="views-category__column" css-class="views-category__column">
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Electric Guitars</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Amps</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Drums</mj-button>
+  </mj-column>
+  <mj-column mj-class="views-category__column1" css-class="views-category__column1">
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Pro Audio</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Synths</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Straps</mj-button>
+  </mj-column>
+  <mj-column mj-class="views-category__column2" css-class="views-category__column2">
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Effects & Pedals</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Base Guitars</mj-button>
+    <mj-button href="#" mj-class="views-category__button" css-class="views-category__button">Accessories</mj-button>
+  </mj-column>
+</mj-section>
+<mj-include path="../components/lent/lent.mjml" />

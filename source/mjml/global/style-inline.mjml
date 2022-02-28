@@ -1,0 +1,122 @@
+<mj-style inline="inline">
+
+  /* global style inline */
+
+  /* base tag */
+
+  body {
+    min-width: 320px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-text-size-adjust: 100% !important;
+    -ms-text-size-adjust: 100% !important;
+  }
+
+  table,
+  td {
+    border-collapse: collapse !important;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  img {
+    height: auto !important;
+
+    line-height: 100% !important;
+    text-decoration: none !important;
+
+    border: 0 !important;
+    outline: none !important;
+    -ms-interpolation-mode: bicubic !important;
+  }
+
+  p {
+    display: block !important;
+  }
+
+  .body {
+    min-width: 308px !important;
+    padding-right: 6px !important;
+    padding-left: 6px !important;
+  }
+
+  span,
+  p, {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* alt image style */
+
+  .alt-img a {
+    color: #ff7878 !important;
+  }
+
+  .alt-img {
+    color: #ff7878 !important;
+    font-size: 20px !important;
+    line-height: 25px !important;
+  }
+
+  .alt-img-min img {
+    color: #ff7878 !important;
+    font-size: 10px !important;
+    line-height: 10px !important;
+  }
+
+  /* container */
+
+  .container {
+    width: 87% !important;
+    max-width: 87% !important;
+  }
+
+  /* blocks */
+  /* main component 2  right-to-left*/
+  .components-main__right > table > tbody > tr > td{
+    direction: rtl;
+  }
+  /* wrapper */
+  .wrapper{
+    background-position: left bottom !important;
+  }
+  /* header */
+  .views-header__title p {
+    font-size: 38px !important;
+    font-weight: 700 !important;
+    line-height: 38px !important;
+    text-transform: uppercase !important;
+  }
+  .views-header__title p:last-child {
+    font-size: 46px !important;
+    font-weight: 700 !important;
+    line-height: 46px !important;
+    text-transform: uppercase !important;
+    color: #d6383d !important;
+  }
+  .components-discounts__textprice p span:first-child{
+    text-decoration: line-through !important;
+  }
+  .components-discounts__textprice p span:last-child{
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    color: #d6383d !important;
+  }
+  .views-buttons__image_border{
+    border-left: 1px solid #000000 !important;
+    border-right: 1px solid #000000 !important;
+  }
+  .views-buttons__column{
+    width: 33% !important;
+    max-width: 33% !important;
+  }
+  .views-footer__social{
+    padding: 10px 17px !important;
+  }
+  .views-footer-last__text p a {
+    color:#7b7b7b !important;
+  }
+  .views-category__button{
+    width: 180px !important;
+  }
+</mj-style>
